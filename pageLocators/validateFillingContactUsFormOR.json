@@ -1,0 +1,11 @@
+{
+    "validateFillContForm": {
+        "clickLink": "//div[@id='contact-link']/a[@title='Contact Us']",
+        "sel": "/ html//select[@id='id_contact']",
+        "email": "/html//input[@id='email']",
+        "msg": "/html//textarea[@id='message']",
+        "submit": "//button[@id='submitMessage']/span",
+        "error": "//div[@id='center_column']//ol/li[.='Invalid email address.']",
+        "success": "//div[@id='center_column']/p[@class='alert alert-success']"
+    }
+}

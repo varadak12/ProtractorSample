@@ -1,0 +1,34 @@
+{
+
+		"userdata1":{
+			"fname": "Jack",
+			"lname" : "Mathew",
+			"uname" : "gillyb",
+			"customer": "Company BBB",
+			"role": "Customer",
+			"password": "Test#$6",
+			"emailAdd": "gilly@comp.com",
+			"cellphone": "111222333"
+		},
+		"userdata2":{
+			"fname": "Tom",
+			"lname" : "Cruise",
+			"uname" : "cruiseT",
+			"customer": "Company AAA",
+			"role": "Sales Team",
+			"password": "Test#$611",
+			"emailAdd": "mattcomp.com",
+			"cellphone": "11222333"
+		},
+		"userdata3":{
+			"fname": "Chi",
+			"lname" : "Tee",
+			"uname" : "teet",
+			"customer": "Company AAA",
+			"role": "Sales Team",
+			"password": "Test#$1",
+			"emailAdd": "mattc@omp.com",
+			"cellphone": "11222333"
+		}
+
+}

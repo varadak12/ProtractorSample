@@ -1,0 +1,21 @@
+{
+  "name": "test",
+  "version": "0.0.0",
+  "description": "ProtractorTest",
+  "main": "app.js",
+  "author": {
+    "name": "varada"
+  },
+  "devDependencies": {
+    "astrolabe": "0.3.6",
+    "exceljs": "^0.2.3",
+    "jasmine-allure-reporter": "^0.2.3",
+    "jasmine-reporters": "2.0.0",
+    "winston": "1.0.1"
+  },
+  "dependencies": {
+    "collections": "^5.0.7",
+    "path": "^0.12.7",
+    "promise": "^7.0.4"
+  }
+}

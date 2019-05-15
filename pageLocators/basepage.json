@@ -1,0 +1,8 @@
+{
+	"basepage": {
+
+        "addnewuserLink": "/html/body/table/thead/tr[2]/td/button",
+        "tablerows":"/html/body/table/tbody/tr",
+        "tabledata":"body > table"
+	}
+}
