@@ -1,0 +1,6 @@
+Write a test project with either BDD or other selenium framework in nodejs for this angular
+web page: http://www.way2automation.com/angularjs-protractor/webtables/
+ Requirements:
+1. Set the table values by fix data set (data driven test)
+2. Verify the data as expected after setting
+3. Create config file, structure the project as POM.
